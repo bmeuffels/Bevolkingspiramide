@@ -1,0 +1,5 @@
+{
+  "name": "PopuViz: Demographic Explorer",
+  "description": "An interactive population pyramid visualization tool that explores demographic shifts from 1950 to 2100 across different economic development stages, featuring AI-powered educational insights.",
+  "requestFramePermissions": []
+}
